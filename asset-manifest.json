@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Taki24/SeriesRecommender/static/css/main.f03c4482.chunk.css",
+    "main.js": "/Taki24/SeriesRecommender/static/js/main.918e42a1.chunk.js",
+    "main.js.map": "/Taki24/SeriesRecommender/static/js/main.918e42a1.chunk.js.map",
+    "runtime-main.js": "/Taki24/SeriesRecommender/static/js/runtime-main.e3f469b5.js",
+    "runtime-main.js.map": "/Taki24/SeriesRecommender/static/js/runtime-main.e3f469b5.js.map",
+    "static/js/2.dc52d35a.chunk.js": "/Taki24/SeriesRecommender/static/js/2.dc52d35a.chunk.js",
+    "static/js/2.dc52d35a.chunk.js.map": "/Taki24/SeriesRecommender/static/js/2.dc52d35a.chunk.js.map",
+    "static/js/3.326d3011.chunk.js": "/Taki24/SeriesRecommender/static/js/3.326d3011.chunk.js",
+    "static/js/3.326d3011.chunk.js.map": "/Taki24/SeriesRecommender/static/js/3.326d3011.chunk.js.map",
+    "index.html": "/Taki24/SeriesRecommender/index.html",
+    "static/css/main.f03c4482.chunk.css.map": "/Taki24/SeriesRecommender/static/css/main.f03c4482.chunk.css.map",
+    "static/js/2.dc52d35a.chunk.js.LICENSE.txt": "/Taki24/SeriesRecommender/static/js/2.dc52d35a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3f469b5.js",
+    "static/js/2.dc52d35a.chunk.js",
+    "static/css/main.f03c4482.chunk.css",
+    "static/js/main.918e42a1.chunk.js"
+  ]
+}
